@@ -44,6 +44,7 @@ import emoji
 print(emoji.emojize("Python is :snake: awesome! :party_popper:"))
 # Once it is installed it works for THIS notebook - not for any other notebok.```
 
-    
+## Some notes about Colab vs GitHub
+I need to keep 
 
 
