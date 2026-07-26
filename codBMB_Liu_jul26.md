@@ -42,9 +42,15 @@ Colab comes with many popular Python libraries pre-installed (like NumPy, Pandas
 # Now import and use it
 import emoji
 print(emoji.emojize("Python is :snake: awesome! :party_popper:"))
-# Once it is installed it works for THIS notebook - not for any other notebok.```
+# Once it is installed it works for THIS notebook - not for any other notebok.
+```
 
-## Some notes about Colab vs GitHub
-I need to keep 
+**Some notes about Colab vs GitHub**
+GitHub is a repo - have to remember to push and pull
+Colab is a Google Drive system - autosaves, etc
 
 
+### AI tools
+If we want to use Gemini within Colab.... Go to Tools > Settings and TURN on top two check boxes
+
+**Explain error** works ONLY in the code block you are working in. May rename things.... and then that isn't linked anymore in other code blocks.
